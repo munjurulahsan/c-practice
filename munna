@@ -1,0 +1,12 @@
+public static void main(String args[])
+    {
+        int n=5;
+        float f=5.4F;
+        char c='A';
+        boolean b=true;
+        String  s="ABCD";
+        System.out.println("The value of n is "+n);
+        System.out.println("Hello World\n");
+
+
+    }
